@@ -328,4 +328,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# pickle file
+*.pkl
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,pycharm,python,jupyternotebooks
